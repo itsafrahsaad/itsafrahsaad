@@ -18,7 +18,7 @@ I’m especially interested in full stack development, cloud deployment, and usi
 - **Zorin OS 18 Website** – A WordPress site deployed on AWS EC2 with custom design and analytics  
 - **Java Four-Square Cipher** – An encryption project using 2D arrays and object-oriented design  
 - **Cisco Networking Lab** – A multi-router network implementing NAT and RIP routing
-- **Practical Linux and computer architecture work performed on an Azure hosted VM, including shell scripting, file permissions, system inspection, and Git based version control
+- Practical Linux and computer architecture work performed on an Azure hosted VM, including shell scripting, file permissions, system inspection, and Git based version control
 
 
 ## Currently

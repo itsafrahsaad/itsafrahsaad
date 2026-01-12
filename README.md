@@ -13,7 +13,7 @@ I’m especially interested in full stack development, cloud deployment, and usi
 - **Cloud & OS:** AWS (EC2), Linux, Ubuntu
 - **Tools:** Git, GitHub, VS Code, Cisco Packet Tracer
 
-## Projects I’m Proud Of
+## Projects I’m Proud of
 - **PawMart** – A full-stack e-commerce application built with Node.js and MySQL  
 - **Zorin OS 18 Website** – A WordPress site deployed on AWS EC2 with custom design and analytics  
 - **Java Four-Square Cipher** – An encryption project using 2D arrays and object-oriented design  

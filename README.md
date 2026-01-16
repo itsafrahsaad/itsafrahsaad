@@ -20,7 +20,7 @@ I’m especially interested in full stack development, cloud deployment, and usi
 - **Cisco Networking Lab** – A multi-router network implementing NAT and RIP routing
 - Practical Linux and computer architecture work performed on an Azure hosted VM, including shell scripting, file permissions, system inspection, and Git based version control
 
-  ## Professional Background
+## Professional Background
 I previously worked in the banking sector, where I developed strong analytical skills,
 attention to detail, and experience working with sensitive data in structured,
 regulated environments. These skills now inform how I approach software development.

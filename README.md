@@ -2,8 +2,12 @@
 
 I’m a Higher Diploma in Software Development student who learns best by building real things.
 I enjoy breaking problems down, figuring out how systems work under the hood, and turning ideas into working applications.
-
 I’m especially interested in full stack development, cloud deployment, and using technology to solve practical, everyday problems.
+
+## Professional Background
+I previously worked in the banking sector, where I developed strong analytical skills,
+attention to detail, and experience working with sensitive data in structured,
+regulated environments. These skills now inform how I approach software development.
 
 ## What I Work With
 - **Languages:** Java, JavaScript
@@ -20,17 +24,8 @@ I’m especially interested in full stack development, cloud deployment, and usi
 - **Cisco Networking Lab** – A multi-router network implementing NAT and RIP routing
 - Practical Linux and computer architecture work performed on an Azure hosted VM, including shell scripting, file permissions, system inspection, and Git based version control
 
-## Professional Background
-I previously worked in the banking sector, where I developed strong analytical skills,
-attention to detail, and experience working with sensitive data in structured,
-regulated environments. These skills now inform how I approach software development.
-
-
 ## Currently
 - Completing my Higher Diploma in Software Development  
 - Improving my GitHub portfolio and real world coding skills  
 - Preparing for junior software and IT related roles  
-
-## Let’s Connect
-- GitHub: https://github.com/itsafrahsaad
 

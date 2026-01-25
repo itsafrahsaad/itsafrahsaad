@@ -30,7 +30,7 @@ regulated environments. These skills now inform how I approach software developm
 - Preparing for junior software and IT related roles
 
 ## Languages:
-  Arabic 
+  Arabic ,
   English
 
 

@@ -29,6 +29,8 @@ regulated environments. These skills now inform how I approach software developm
 - Improving my GitHub portfolio and real world coding skills  
 - Preparing for junior software and IT related roles
 
-Languages: English, Arabic
+## Languages:
+  Arabic 
+  English
 
 

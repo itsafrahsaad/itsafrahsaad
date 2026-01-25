@@ -27,5 +27,8 @@ regulated environments. These skills now inform how I approach software developm
 ## Currently
 - Completing my Higher Diploma in Software Development  
 - Improving my GitHub portfolio and real world coding skills  
-- Preparing for junior software and IT related roles  
+- Preparing for junior software and IT related roles
+
+Languages: English, Arabic
+
 
